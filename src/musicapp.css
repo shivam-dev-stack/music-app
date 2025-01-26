@@ -1,0 +1,45 @@
+.music-player-container {
+    width: 300px;
+    margin: 50px auto;
+    padding: 20px;
+    background: #f4f4f4;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .music-player-title {
+    font-size: 1.8rem;
+    margin-bottom: 20px;
+  }
+  
+  .song-details h2 {
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  
+  .song-details p {
+    font-size: 0.9rem;
+    color: #666;
+  }
+  
+  .controls {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .control-button {
+    background: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .control-button:hover {
+    background: #0056b3;
+  }
+  
