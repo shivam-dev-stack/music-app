@@ -4,32 +4,32 @@ import "./musicapp.css";
 const songs = [
   {
     id: 1,
-    title: "Blinding Lights",
-    artist: "The Weeknd",
+    title: "Song1",
+    artist: "elektro",
     url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
   },
   {
     id: 2,
-    title: "Shape of You",
-    artist: "Ed Sheeran",
+    title: "Song2",
+    artist: "elektro",
     url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
   },
   {
     id: 3,
-    title: "Levitating",
-    artist: "Dua Lipa",
+    title: "Song3",
+    artist: "elektro",
     url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
   },
   {
     id: 4,
-    title: "Someone Like You",
-    artist: "Adele",
+    title: "Song4,
+    artist: "elektro",
     url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
   },
   {
     id: 5,
-    title: "Bohemian Rhapsody",
-    artist: "Queen",
+    title: "Song5",
+    artist: "elektro",
     url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
   },
 ];
